@@ -13,6 +13,6 @@ class Circle{
   }
   set diameter(diameter){
     this.diameter = diameter;
-    return this.radius = this.diameter/2
+    return this.radius = this.diameter/2;
   }
 }
